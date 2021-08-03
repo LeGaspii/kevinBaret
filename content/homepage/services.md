@@ -4,34 +4,34 @@ weight: 2
 header_menu: true
 ---
 
-Que puis-je vous proposez ?
+Que puis-je vous proposer ?
 
 ---
 
 ## Conseils
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
+Naviguer au travers des offres et des propositions n'est jamais facile.
 
 ![Nice picture to make you pay me ;-)](images/plans.jpg)
 
-Wow. That was nice, right? Well, call me and let us talk.
+Appelez-moi, nous en discuterons !
 
 ---
 
 ## Accompagnement
 
-Did you see the picture above? I can show you how to go from
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel massa sollicitudin, elementum mi vel, interdum diam. Maecenas vel feugiat nibh. Pellentesque sed dolor a nibh fringilla facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac posuere felis, eget tristique urna. Integer purus massa, varius sit amet mattis ac, mollis vitae sem. Sed condimentum tellus lorem, condimentum pellentesque nulla placerat porttitor.
 
 ![Let us get started on a clean slate](images/tools.jpg)
 
-to
+Quisque nec feugiat neque. Donec vitae scelerisque leo. Aenean ac libero commodo, scelerisque nibh in, varius neque. Proin consequat turpis sed ornare accumsan. Sed elit nisl, pellentesque eu posuere nec, lacinia porta nulla. Sed pretium gravida justo quis dignissim. Curabitur sit amet mattis mauris. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi eu tellus quam. Fusce sit amet elit dictum, elementum augue ut, volutpat dolor. Donec a laoreet orci, eget vestibulum magna. Sed tincidunt turpis at orci posuere, ac imperdiet quam porta.
 
 ![Let us get started on a clean slate](images/wrench.jpg)
 
-in estimated seconds.
+Phasellus tincidunt consectetur turpis a imperdiet. Pellentesque ornare ullamcorper mi a auctor. Suspendisse ac felis at odio ornare finibus at non est. Maecenas nisi erat, malesuada aliquam finibus sit amet, malesuada at arcu. Vestibulum eu erat nec leo tincidunt imperdiet. Ut dapibus hendrerit ullamcorper. Vivamus non aliquam sem. Phasellus iaculis ornare pretium. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In vel libero felis. Etiam facilisis lacus mauris, nec consectetur tellus ultrices ut. Etiam et turpis ut justo elementum ultrices. Nullam lobortis rhoncus rutrum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam laoreet nisl at pharetra faucibus.
 
 ---
 
-Want to learn more about my services?
+Vous voulez en savoir plus sur les services et accompagnement que je propose ?
 
-Check out [cette page](services) I created. It carries a lot more details...
+Vous trouverez plus de details sur [cette page](services). Elle contient plus de détails...
